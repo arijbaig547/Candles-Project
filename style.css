@@ -4,7 +4,7 @@
     scroll-behavior: smooth;
 }
 .main{
-    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.4),rgba(0,0,0,0.6)),url("images/Main-image-secondchoice.jpg");
+    background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.4),rgba(0,0,0,0.6)),url("compressed images/Main-image-secondchoice.jpg");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
